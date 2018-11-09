@@ -3,7 +3,6 @@ holistic.py, emotion.py and attribute.py are about holistic, emotion and attribu
 
 ## Demo:
 - Demo video is available <a href="https://youtu.be/lkQuCgqhiRw">here</a>.
-- You can run your own video using demo.py. demo.py uses MTCNN library. Please download corresponding models from <a href="https://github.com/xiangrufan/keras-mtcnn">here</a>.
 
 ## Requirements:
 - We use keras (<a href="https://github.com/keras-team/keras">link</a>) with tensorflow backend to train our models.
