@@ -1,5 +1,4 @@
 # Group-Affect
-
 holistic.py, emotion.py and attribute.py are about holistic, emotion and attribute network respectively.
 
 ## Demo:
@@ -16,7 +15,7 @@ holistic.py, emotion.py and attribute.py are about holistic, emotion and attribu
 
 - Paper link: https://ieeexplore.ieee.org/document/8451242
 
-###### Contact:
+## Contact:
 - <a href="https://scholar.google.co.in/citations?user=BJ-oHaUAAAAJ&hl=en">Shreya Ghosh</a>
 - GAF 3.0 and GAF 2.0 dataset <a href="http://www.iitrpr.ac.in/lasii/resources.html">(link)</a>.  
 
