@@ -15,7 +15,7 @@ holistic.py, emotion.py and attribute.py are about holistic, emotion and attribu
 - Paper link: https://ieeexplore.ieee.org/document/8451242
 
 ## Contact:
-- <a href="https://scholar.google.co.in/citations?user=BJ-oHaUAAAAJ&hl=en">Shreya Ghosh</a>
+- <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=nlOQ2CkAAAAJ">Shreya Ghosh</a>
 - GAF 3.0 and GAF 2.0 dataset <a href="http://www.iitrpr.ac.in/lasii/resources.html">(link)</a>.  
 
 If you find the code useful for your research, please consider citing our work:
